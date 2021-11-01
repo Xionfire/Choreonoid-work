@@ -1,0 +1,6 @@
+Joint number:
+0
+Amplitude:
+0.5
+Frequency(Hz):
+0.2
